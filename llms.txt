@@ -41,3 +41,4 @@ Pricing is per school. All plans include a 30-day trial and no setup fee. Ed Tec
 - [Slack integration](https://edtechnolog.com/docs/integrations/slack/index.html): Connect Slack to receive Ed Technolog notifications.
 - [Salesforce integration](https://edtechnolog.com/docs/integrations/salesforce/index.html): Sync school contacts and enrollment data with Salesforce.
 - [HubSpot integration](https://edtechnolog.com/docs/integrations/hubspot/index.html): Sync contacts and company records with HubSpot.
+- [Glossary](https://edtechnolog.com/docs/glossary/index.html): Plain definitions of mastery grading and standards alignment, with sources.
