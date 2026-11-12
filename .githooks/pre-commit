@@ -1,0 +1,6 @@
+#!/bin/sh
+# Keeps sitemap.xml's <lastmod> dates current on every commit.
+# Turn on once per clone with: git config core.hooksPath .githooks
+set -e
+sh scripts/update-sitemap-lastmod.sh
+git add sitemap.xml
