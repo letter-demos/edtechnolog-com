@@ -1,0 +1,43 @@
+# Ed Technolog
+
+> Ed Technolog builds lightweight tools that help schools and teachers plan lessons, track student progress, and run online learning without wrestling with complicated systems. Less admin, more teaching: three simple tools that a new teacher can learn in an afternoon, designed with classroom teachers and used by small and mid-sized schools across North America.
+
+The three tools share one account and one roster:
+
+- PlanBoard: a drag-and-drop lesson planner for building weekly and unit plans, aligning them to standards and sharing them with colleagues.
+- A student progress tracker (called Markbook on some pages and ProgressTrack on others): turns grades, quiz results and teacher notes into a clear picture of each student, with mastery-based and percentage grading and parent-friendly progress summaries.
+- An online classroom (called Classroom Loop on some pages and ClassLink Online on others): assignments, discussions and short live sessions, designed to work on older school laptops and slow connections, with a low-bandwidth mode.
+
+Pricing is per school. All plans include a 30-day trial and no setup fee. Ed Technolog serves public elementary and middle schools, independent and private schools, charter school networks, and tutoring centers and after-school programs. The company was started in 2019 by two former teachers and is based in Madison, Wisconsin.
+
+## Key pages
+
+- [Home](https://edtechnolog.com/): What Ed Technolog makes, in three simple tools for planning, progress tracking and online classrooms.
+- [Product](https://edtechnolog.com/product.html): Features of PlanBoard, Markbook and Classroom Loop, and who they are for.
+- [Products](https://edtechnolog.com/product/index.html): The three options side by side: PlanBoard, ProgressTrack and ClassLink Online.
+- [ClassLink Online overview](https://edtechnolog.com/product/overview/index.html): What the online classroom can and cannot do today.
+- [Pricing](https://edtechnolog.com/pricing/index.html): Per-school plans, each with a 30-day trial and no setup fee.
+- [Customers](https://edtechnolog.com/customers/index.html): The kinds of schools and programs across North America that use Ed Technolog.
+- [Customer stories](https://edtechnolog.com/customers.html): What teachers and school leaders say about the tools.
+- [About](https://edtechnolog.com/about.html): The story of the two former teachers who started Ed Technolog, and the company's values.
+- [Contact](https://edtechnolog.com/contact.html): How to reach the Ed Technolog team.
+
+## Use cases
+
+- [Use cases](https://edtechnolog.com/use-cases/index.html): Common ways teachers use Ed Technolog.
+- [Plan a unit](https://edtechnolog.com/use-cases/plan-a-unit/index.html): Steps to build a standards-aligned unit plan in PlanBoard.
+- [Parent conferences](https://edtechnolog.com/use-cases/parent-conferences/index.html): Steps to prepare student progress summaries in ProgressTrack.
+
+## Blog
+
+- [Blog](https://edtechnolog.com/blog/index.html): Notes from the Ed Technolog team.
+- [Five ways to plan a unit in under an hour](https://edtechnolog.com/blog/five-ways-to-plan-a-unit-in-under-an-hour.html): A practical routine for building a full unit without losing your weekend.
+- [Why we built Classroom Loop for slow connections](https://edtechnolog.com/blog/why-we-built-classroom-loop-for-slow-connections.html): Online learning only works if every student can get in the door.
+- [Mastery grading without the headache](https://edtechnolog.com/blog/mastery-grading-without-the-headache.html): A gentle introduction for schools thinking about moving beyond percentages.
+
+## Docs
+
+- [Documentation](https://edtechnolog.com/docs/index.html): Supported capabilities and limits for the online classroom, plus integration guides.
+- [Slack integration](https://edtechnolog.com/docs/integrations/slack/index.html): Connect Slack to receive Ed Technolog notifications.
+- [Salesforce integration](https://edtechnolog.com/docs/integrations/salesforce/index.html): Sync school contacts and enrollment data with Salesforce.
+- [HubSpot integration](https://edtechnolog.com/docs/integrations/hubspot/index.html): Sync contacts and company records with HubSpot.
